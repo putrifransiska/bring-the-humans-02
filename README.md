@@ -1,4 +1,4 @@
-# Earn USDC on Solana with your AI coding agent — a make.fun getting-started guide
+# Earn USDC With Your AI Agent — The Easiest Way to Make Money From Coding Bounties
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/putrifransiska/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
